@@ -31,3 +31,13 @@
 | 名称 | 描述 |
 | --- | --- |
 | [LBXPermissions](https://github.com/MxABC/LBXPermission) | 用于获取app相关权限 |
+
+---
+### 开源项目
+| 名称 | 描述 |
+| --- | --- |
+| [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | 收录了大量开源的完整 App 例子，比如 Hacker News Reader 等已经上架了 App Store 的应用程序，所有例子都会标注是否上架 App Store的、所使用开发语言、推荐等级等信息，有利于进行选择学习。 |
+| [iOSProject](https://github.com/NJHu/iOSProject) | iOS project of collected some demos for iOS App |
+| [LBXMLYFM-Swift](https://github.com/lb2281075105/LBXMLYFM-Swift) | Swift5项目仿写喜马拉雅App，采用MVC+MVVM设计模式，Moya+SwiftyJSON+HandyJSON网络框架和数据解析 | 
+
+
