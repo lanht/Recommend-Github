@@ -27,10 +27,19 @@
 | [TOCropViewController](https://github.com/TimOliver/TOCropViewController)| 图片裁剪 |
 
 ---
+### 网络
+| 名称 | 描述 |
+| --- | --- |
+| [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 网络请求库 |
+| [Moya](https://github.com/Moya/Moya) | 网络请求库 |
+
+---
 ### 工具
 | 名称 | 描述 |
 | --- | --- |
 | [LBXPermissions](https://github.com/MxABC/LBXPermission) | 用于获取app相关权限 |
+| [SnapKit](https://github.com/SnapKit/SnapKit) | 自动布局框架（swift版）|
+| [Masonry](https://github.com/SnapKit/Masonry) | 自动布局框架（oc版）|
 
 ---
 ### 开源项目
