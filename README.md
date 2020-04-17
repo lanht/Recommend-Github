@@ -25,7 +25,8 @@
 | [ChartsUnderstandAndUsage](https://github.com/FighterLightning/ChartsUnderstandAndUsage) | Charts框架的（柱状图、饼状图、饼状图（半圆形）、雷达图、折线图、折线填充图、散点图、K 线图（烛形图）、气泡图、组合图(混合图)的基本使用方法 |- |
 | [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) | 图片浏览器 |- |
 | [TOCropViewController](https://github.com/TimOliver/TOCropViewController)| 图片裁剪 | - |
-| [Lottie](https://github.com/airbnb/lottie-ios) |Lottie通过JSON格式下载动画数据并实时提供给开发者。| 1.[iOS Lottie动画](https://www.jianshu.com/p/230bda17a2b5)  2.[iOS接入 Lottie 动画过程详解](http://www.cocoachina.com/articles/23324)|
+| [Lottie](https://github.com/airbnb/lottie-ios) |Lottie通过JSON格式下载动画数据并实时提供给开发者。| 1.[iOS Lottie动画](https://www.jianshu.com/p/230bda17a2b5)
+2.[iOS接入 Lottie 动画过程详解](http://www.cocoachina.com/articles/23324)|
 
 ---
 ### 网络
