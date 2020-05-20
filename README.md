@@ -41,6 +41,8 @@
 | [LBXPermissions](https://github.com/MxABC/LBXPermission) | 用于获取app相关权限 |
 | [SnapKit](https://github.com/SnapKit/SnapKit) | 自动布局框架（swift版）|
 | [Masonry](https://github.com/SnapKit/Masonry) | 自动布局框架（oc版）|
+|[PromiseKit](https://github.com/mxcl/PromiseKit)|异步编程 App 开发中用得非常频繁，但异步请求后的操作却比较麻烦。Promise 就是解决这一问题的编程模型。其适用于 延迟(deferred) 计算和 异步(asynchronous) 计算。一个 Promise 对象代表着一个还未完成，但预期将来会完成的操作。它并非要替代 GCD 和 NSOperation，而是与它们一起合作。|
+|[Blots-iOS](https://github.com/BoltsFramework/Bolts-ObjC)|Bolts 是 Parse 和 Facebook 开源的库，包含 Tasks 和 App Links protocol 两个基础组件。Tasks 即是其 Promise 实现。|
 
 ---
 ### 开源项目
