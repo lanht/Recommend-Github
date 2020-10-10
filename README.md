@@ -4,6 +4,10 @@
 ### UI
 | 名称 | 作者 | 描述 | 相关博客 |
 | --- | --- | --- |---|
+| [IGListKit](https://github.com/Instagram/IGListKit) | Instagram （组织）|Instagram在2016年年底发布了基于数据驱动的UICollectionView框架IGListKit。使用数据驱动去创造更为快速灵活的列表控件。|https://www.jianshu.com/p/3517619085f7|
+| [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) |Julien Saad|---|---|
+| [MBProgressHUD](https://github.com/jdg/MBProgressHUD) |Matej Bukovinski| --- |---|
+| [MJRefresh](https://github.com/CoderMJLee/MJRefresh) |李明杰| --- |---|
 | [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar) |  --- |一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等 |- |
 | [ESTabBarController](https://github.com/eggswift/ESTabBarController) |  --- |自定的TableBar(样式丰富) |- |
 | [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) | --- | 一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自带红点角标，支持动态刷新。 |- |
@@ -28,6 +32,13 @@
 | [Lottie](https://github.com/airbnb/lottie-ios) | --- |Lottie通过JSON格式下载动画数据并实时提供给开发者。| 1.[iOS Lottie动画](https://www.jianshu.com/p/230bda17a2b5) <br> 2.[iOS接入 Lottie 动画过程详解](http://www.cocoachina.com/articles/23324)|
 
 ---
+### 数据存储
+|名称|作者|描述|相关解读|
+|---|---|---|---|
+| [FMDB](https://github.com/ccgus/fmdb) |--- |---|---|
+| [Realm](https://github.com/realm/realm-cocoa) |---|---|---|
+
+---
 ### 网络
 | 名称 | 作者 | 描述 | 相关博客 |
 | --- | --- | --- |---|
@@ -43,6 +54,9 @@
 | [Masonry](https://github.com/SnapKit/Masonry) | ---|自动布局框架（oc版）|---|
 |[PromiseKit](https://github.com/mxcl/PromiseKit)|---|异步编程 App 开发中用得非常频繁，但异步请求后的操作却比较麻烦。Promise 就是解决这一问题的编程模型。其适用于 延迟(deferred) 计算和 异步(asynchronous) 计算。一个 Promise 对象代表着一个还未完成，但预期将来会完成的操作。它并非要替代 GCD 和 NSOperation，而是与它们一起合作。|---|
 |[Blots-iOS](https://github.com/BoltsFramework/Bolts-ObjC)|---|Bolts 是 Parse 和 Facebook 开源的库，包含 Tasks 和 App Links protocol 两个基础组件。Tasks 即是其 Promise 实现。|---|
+| [SDWebImage](https://github.com/SDWebImage/SDWebImage) |---|图片加载框架|---|
+| [MJExtension](https://github.com/CoderMJLee/MJExtension) |李明杰|Json转模型工具|---|
+| [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)  |---|键盘管理工具|---|
 
 ---
 ### 开源项目
