@@ -76,5 +76,8 @@
 |大神| 博客地址 |
 | --- | --- | 
 | 戴铭 | https://ming1016.github.io/ | 
-
+| 王巍 | https://onevcat.com/#blog |
+| 唐巧 | https://blog.devtang.com |
+| 楚权的世界 | http://chuquan.me | 
+| ibireme（YYKit）| https://blog.ibireme.com |
 
